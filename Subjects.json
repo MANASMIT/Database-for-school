@@ -1,0 +1,188 @@
+{ 
+    "departments": [
+    {
+        "id": 1,
+        "name": "Biology",
+        "subjects": [
+        {
+            "id": 1,
+            "name": "Biochemistry"
+        },
+        {
+            "id": 2,
+            "name": "Cell Biology"
+        },
+        {
+            "id": 3,
+            "name": "Animal Physiology"
+        },
+        {
+            "id": 4,
+            "name": "Molecular Biology"
+        },
+        {
+            "id": 5,
+            "name": "Biostatistics"
+        },
+        {
+            "id": 6,
+            "name": "Genetics"
+        },
+        {
+            "id": 7,
+            "name": "Plant Physiology"
+        },
+        {
+            "id": 8,
+            "name": "Immunology"
+        },
+        {
+            "id": 9,
+            "name": "Biotechnology"
+        },
+        {
+            "id": 10,
+            "name": "Virology"
+        },
+        {
+            "id": 11,
+            "name": "Neurobiology"
+        }
+    ]
+    },
+    {
+        "id": 2,
+        "name": "Chemistry",
+        "subjects": [
+        {
+            "id": 12,
+            "name": "Organic Chemistry"
+        },
+        {
+            "id": 13,
+            "name": "Inorganic Chemistry"
+        },
+        {
+            "id": 14,
+            "name": "Spectroscopy"
+        },
+        {
+            "id": 15,
+            "name": "Physical Chemistry"
+        },
+        {
+            "id": 16,
+            "name": "Quantum Chemistry"
+        },
+        {
+            "id": 17,
+            "name": "Analytical Chemistry"
+        },
+        {
+            "id": 18,
+            "name": "Nuclear Chemistry"
+        },
+        {
+            "id": 19,
+            "name": "Organometallics and Bioinorganic Chemistry"
+        },
+        {
+            "id": 20,
+            "name": "Materials Chemistry"
+        }
+    ]
+    },
+    {
+        "id": 3,
+        "name": "Mathematics",
+        "subjects": [
+        {
+            "id": 21,
+            "name": "Foundations"
+        },
+        {
+            "id": 22,
+            "name": "Variable Analysis"
+        },
+        {
+            "id": 23,
+            "name": "Algebra"
+        },
+        {
+            "id": 24,
+            "name": "Elementary Number Theory"
+        },
+        {
+            "id": 25,
+            "name": "Topology"
+        },
+        {
+            "id": 26,
+            "name": "Complex Analysis"
+        },
+        {
+            "id": 27,
+            "name": "Real Analysis"
+        },
+        {
+            "id": 28,
+            "name": "Probability Theory"
+        },
+        {
+            "id": 29,
+            "name": "Differential Equations"
+        }
+    ]
+    },
+    {
+        "id": 4,
+        "name": "Physics",
+        "subjects": [
+        {
+            "id": 30,
+            "name": "Classical Mechanics"
+        },
+        {
+            "id": 31,
+            "name": "Electromagnetism"
+        },
+        {
+            "id": 32,
+            "name": "Waves, Oscillations and Optics"
+        },
+        {
+            "id": 33,
+            "name": "Quantum Mechanics"
+        },
+        {
+            "id": 34,
+            "name": "Statistical Physics"
+        },
+        {
+            "id": 35,
+            "name": "Nuclear Physics"
+        },
+        {
+            "id": 36,
+            "name": "Condensed Matter Physics"
+        },
+        {
+            "id": 37,
+            "name": "Atomic and Molecular Physics"
+        },
+        {
+            "id": 38,
+            "name": "Fluid Mechanics"
+        },
+        {
+            "id": 39,
+            "name": "Astronomy and Astrophysics"
+        },
+        {
+            "id": 40,
+            "name": "Nonlinear Dynamics and Chaos"
+        }
+    ]
+    }
+]
+}

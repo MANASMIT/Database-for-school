@@ -1,0 +1,167 @@
+{
+    "Teachers": [
+        {
+            "id": 1,
+            "name": "Subhojit Sen",
+            "subjects_taught": [
+                1,
+                2
+            ],
+            "department_id": 1,
+            "address": "123 Main St",
+            "phone_no": "123-456-7890"
+        },
+        {
+            "id": 2,
+            "name": "Jacinta D' Souza",
+            "subjects_taught": [],
+            "department_id": 1,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 3,
+            "name": "Siddhesh Ghag",
+            "subjects_taught": [],
+            "department_id": 1,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 4,
+            "name": "S.K. Apte",
+            "subjects_taught": [],
+            "department_id": 1,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 5,
+            "name": "Manu Lopus",
+            "subjects_taught": [],
+            "department_id": 1,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 6,
+            "name": "Swapan Ghosh",
+            "subjects_taught": [],
+            "department_id": 2,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 7,
+            "name": "Neeraj Agarwal",
+            "subjects_taught": [],
+            "department_id": 2,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 8,
+            "name": "Sinjan Choudhary",
+            "subjects_taught": [],
+            "department_id": 2,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 9,
+            "name": "Avinash Kale",
+            "subjects_taught": [],
+            "department_id": 2,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 10,
+            "name": "V. K. Jain",
+            "subjects_taught": [],
+            "department_id": 2,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 11,
+            "name": "Swagata Sarkar",
+            "subjects_taught": [],
+            "department_id": 3,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 12,
+            "name": "M.S. Raghunathan",
+            "subjects_taught": [],
+            "department_id": 3,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 13,
+            "name": "S.G. Dani",
+            "subjects_taught": [],
+            "department_id": 3,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 14,
+            "name": "R. Nagarajan",
+            "subjects_taught": [],
+            "department_id": 4,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 15,
+            "name": "Manohar Nyayate",
+            "subjects_taught": [],
+            "department_id": 4,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 16,
+            "name": "Ameeya Bhagwat",
+            "subjects_taught": [],
+            "department_id": 4,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 17,
+            "name": "Sangita Bose",
+            "subjects_taught": [],
+            "department_id": 4,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 18,
+            "name": "Padmnabh Rai",
+            "subjects_taught": [],
+            "department_id": 4,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 19,
+            "name": "Bhooshan Paradkar",
+            "subjects_taught": [],
+            "department_id": 4,
+            "address": "456 Oak St",
+            "phone_no": "456-789-0123"
+        },
+        {
+            "id": 20,
+            "name": "Killer98",
+            "subject": "Kuchbhi",
+            "department": "4",
+            "address": "jjj",
+            "phone_no": "455"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "college_name": "Centre for Excellence in Basic Science",
+    "Departments": [
+        {
+            "id": 1,
+            "creation_date": "YYYY-MM-DD",
+            "name": "Biology"
+        },
+        {
+            "id": 2,
+            "creation_date": "YYYY-MM-DD",
+            "name": "Chemistry"
+        },
+        {
+            "id": 3,
+            "creation_date": "18/06/2004",
+            "name": "Mathematics"
+        },
+        {
+            "id": 4,
+            "creation_date": "YYYY-MM-DD",
+            "name": "Physics"
+        }
+    ]
+}
